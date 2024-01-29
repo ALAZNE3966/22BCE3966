@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alazne's Web Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: pink;
+        }
+
+        header {
+            color:rgb(180, 0, 150);;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2em;
+        }
+
+        h3 {
+            font-size: 1.2em;
+        }
+
+        article {
+            margin: 20px 0;
+        }
+
+        section {
+            font-style: italic;
+        }
+
+        footer {
+            color: rbg(120,0,120);
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .favorite-things {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Alazne</h1>
+
+        <h3>Hey there! I'm a computer science and engineering (CSE) student, and my hobbies are like a digital adventure. Coding is my bread and butter, but when I'm not buried in lines of code, you'll catch me in the thrilling world of competitive programming. There's something so satisfying about cracking those intricate algorithmic puzzles and optimizing code like a boss. And of course, the virtual realm is my playground—I'm a gamer through and through, exploring everything from action-packed adventures to mind-bending strategy games. But it's not all about the screen for me; I love getting hands-on with hardware, building custom PCs and tweaking tech to perfection. Surprisingly, there's an artistic streak in me too! Graphic design and digital illustration are my go-to outlets for creative expression. It's fascinating how technology and creativity can dance together. In the end, my hobbies aren't just a break from CSE; they're an integral part of my tech-infused world.</h3>
+    </header>
+
+    <body>
+        <h4>Hello</h4>
+        <h5>Welcome to my web page</h5>
+        <article>
+            <p>Greetings! I'm currently immersed in the dynamic world of Computer Science and Engineering (CSE) as a B.Tech student at VIT Vellore. My educational journey kicked off in my hometown, where I completed my 12th grade, focusing on mathematics and computer science. The decision to pursue CSE at VIT Vellore stemmed from my profound interest in technology and its endless possibilities. From day one, I've been diving deep into the intricacies of programming, algorithms, and software development. Beyond the classroom, my enthusiasm drives me to participate in coding competitions, attend workshops, and engage in seminars to stay on the cutting edge of industry trends. VIT Vellore has become more than just an academic institution; it's a vibrant community where I can foster my passion for technology and innovation. The journey so far has been thrilling, and I eagerly look forward to what lies ahead in the realm of computer science.
+    </a>
+<p style="font-size: 20px;">Here is my VTOP link: <a href="https://vtop.vit.ac.in/vtop/login">VIT Redirect</a></p>
+<img src="https://www.colive.com/blog/wp-content/uploads/2018/04/wdwf.jpg" alt="Description of the image">
+<table border="1">
+        <tr>
+            <th>Language/Concept</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>C/C++</td>
+            <td>Commonly taught for a solid foundation in programming and low-level concepts.</td>
+        </tr>
+        <tr>
+            <td>Java</td>
+            <td>Widely used in enterprise applications and Android app development.</td>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>Readability and versatility make Python suitable for web development, data science, and AI.</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>Essential for front-end web development, providing dynamic and interactive web design.</td>
+        </tr>
+        <tr>
+            <td>HTML/CSS</td>
+            <td>Foundational for web development, used to structure and style web content.</td>
+        </tr>
+        <tr>
+            <td>SQL</td>
+            <td>Standard language for working with relational databases in various applications.</td>
+        </tr>
+        <tr>
+            <td>Assembly Language</td>
+            <td>Understanding low-level programming through assembly language.</td>
+        </tr>
+        <tr>
+            <td>Algorithms and Data Structures</td>
+            <td>Study of algorithm design and data structures for efficient problem-solving.</td>
+        </tr>
+        <tr>
+            <td>Operating Systems</td>
+            <td>Understanding principles and architecture of operating systems.</td>
+        </tr>
+        <tr>
+            <td>Networking</td>
+            <td>Basics of computer networks and protocols for network programming.</td>
+        </tr>
+        <tr>
+            <td>Software Engineering</td>
+            <td>Concepts of software development methodologies, version control, and project management.</td>
+        </tr>
+    </table>
+            <p>Here are my favorite things!</p>
+            <ol class="favorite-things">
+                <li>Pizza: A classic that never gets old, with a variety of toppings to suit every mood.</li>
+                <li>Sushi: Delicate bites of rice, fresh fish, and seaweed, a perfect blend of flavors.</li>
+                <li>Chocolate Lava Cake: A decadent dessert that oozes gooey chocolate from the center.</li>
+                <li>Tacos: Whether filled with grilled meats, veggies, or fish, tacos are always a tasty treat.</li>
+                <li>Biryani: A fragrant and flavorful rice dish, often spiced with a blend of aromatic herbs and spices.</li>
+                <li>Ice Cream (Mint Chocolate Chip): Refreshing mint combined with rich chocolate chips – a delightful frozen treat.</li>
+                <li>Pasta (Carbonara): Creamy pasta with a luxurious sauce of eggs, cheese, and pancetta or bacon.</li>
+                <li>Chicken Shawarma: Succulent slices of seasoned chicken, wrapped in warm flatbread and topped with flavorful sauces.</li>
+                <li>Hamburgers: A juicy patty nestled in a soft bun, layered with veggies, cheese, and condiments.</li>
+                <li>Pad Thai: Stir-fried rice noodles with a perfect balance of sweet, sour, salty, and spicy flavors, often featuring shrimp or chicken.</li>
+            </ol>
+
+
+<p>Here are my learning interests:</p>
+<div>
+    <p>I am exploring a diverse range of topics to broaden my understanding of the ever-evolving field of Computer Science and Engineering. Currently, my focus includes delving into advanced algorithms and data structures, honing my skills in web development with a keen interest in front-end technologies like React and Vue.js, and diving into the fascinating world of artificial intelligence and machine learning. My journey of learning extends beyond the conventional, as I actively seek out opportunities to collaborate on real-world projects, attend workshops, and contribute to open-source initiatives. Embracing challenges, I find joy in mastering new programming languages, frameworks, and methodologies, continually expanding my knowledge horizons.</p>
+</div>
+
+<article>
+    <b>I am actively engaging in diverse learning experiences:</b>
+    <p>My learning journey is not confined to traditional classroom settings. I find inspiration in participating in hackathons, coding challenges, and collaborative coding projects. Exploring innovative solutions to real-world problems and engaging with the vibrant tech community provides me with practical insights and hones my problem-solving skills. Additionally, I am dedicated to staying informed about emerging technologies, industry trends, and best practices through continuous self-study and interaction with fellow enthusiasts. As I navigate through this dynamic landscape, each learning experience contributes to my growth as a well-rounded computer science professional.</p>
+</article>
+
+<section>
+    <i>I am on a continuous quest for knowledge:</i>
+    <p>My journey in the realm of technology is marked by an insatiable curiosity and a commitment to lifelong learning. From understanding the intricacies of software architecture to exploring the principles of user experience (UX) design, I embrace the interdisciplinary nature of computer science. Engaging with online courses, research papers, and attending tech conferences are integral parts of my learning strategy. By immersing myself in a spectrum of subjects, I aim to develop a holistic perspective that transcends individual technologies, ensuring I am well-equipped to tackle the challenges of the ever-evolving tech landscape.</p>
+</section>
+
+
+    </body>
+
+    <footer>
+        <p><b>Goodbye, hope you visit again</b></p>
+        <p>[I can be contacted at: alazne.2022@vitstudent.ac.in]</p>
+        <li><a href="mailto:alazne.2022@vitstudent.ac.in">Click here to get in touch</a></li>
+    </footer>
+
+</html>
